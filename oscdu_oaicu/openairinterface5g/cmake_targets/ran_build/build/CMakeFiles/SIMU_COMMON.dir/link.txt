@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSIMU_COMMON.a  CMakeFiles/SIMU_COMMON.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SIMULATION/TOOLS/random_channel.c.o CMakeFiles/SIMU_COMMON.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SIMULATION/TOOLS/rangen_double.c.o CMakeFiles/SIMU_COMMON.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SIMULATION/TOOLS/phase_noise.c.o
+/usr/bin/ranlib libSIMU_COMMON.a

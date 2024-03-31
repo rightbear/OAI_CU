@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC    -mavx2 -msse4.1 -mpclmul -mssse3   -pipe -Wno-packed-bitfield-compat -fPIC -Wall -fno-strict-aliasing -rdynamic -std=c++11 -O2 -g   -shared  -o liboai_lmssdrdevif.so CMakeFiles/oai_lmssdrdevif.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/targets/ARCH/LMSSDR/USERSPACE/LIB/lms_lib.cpp.o -lLimeSuite 

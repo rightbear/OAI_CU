@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminimal_lib.a  CMakeFiles/minimal_lib.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/common/utils/backtrace.c.o CMakeFiles/minimal_lib.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/common/utils/LOG/log.c.o CMakeFiles/minimal_lib.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/common/utils/minimal_stub.c.o CMakeFiles/minimal_lib.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/common/utils/T/T.c.o CMakeFiles/minimal_lib.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/common/utils/T/local_tracer.c.o
+/usr/bin/ranlib libminimal_lib.a

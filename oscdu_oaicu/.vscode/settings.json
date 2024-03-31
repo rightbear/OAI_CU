@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "defs_nb_iot.h": "c",
+        "system_error": "c",
+        "*.x": "c",
+        "string_view": "c",
+        "regex": "c",
+        "du_app_rlc_inf.h": "c",
+        "protocolextensionfield.h": "c",
+        "nr_rrc_config.h": "c",
+        "nr_rrc_defs.h": "c"
+    }
+}

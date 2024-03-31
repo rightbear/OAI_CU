@@ -1,0 +1,266 @@
+Scanning dependencies of target FSPT_MSG
+[  0%] Built target f1_flag
+[  0%] Built target generate_T
+[  0%] Built target CONFIG_LIB
+[  0%] Built target rrc_flag
+[  0%] Built target m2_flag
+[  0%] Built target x2_flag
+[  0%] Built target ngap_flag
+[  0%] Building C object CMakeFiles/FSPT_MSG.dir/CMakeFiles/FSPT_V2/flexsplit.pb-c.c.o
+[  0%] Built target m3_flag
+[  0%] Built target nr_rrc_flag
+[  0%] Built target s1ap_flag
+[  0%] Built target ASYNC_IF
+[  0%] Built target HASHTABLE
+[  0%] Built target ldpc_optim
+[  0%] Built target SECU_OSA
+[  0%] Built target NFAPI_COMMON_LIB
+[  0%] Built target NFAPI_LIB
+[  0%] Built target ldpc_orig
+[  1%] Built target LFDS7
+[  1%] Built target PHY_NR_COMMON
+[  1%] Built target ldpc_optim8seg
+[  1%] Built target SECU_CN
+[  1%] Built target ldpc
+[  1%] Built target SCHED_RU_LIB
+[  1%] Built target dfts
+[  1%] Built target ITTI
+[  1%] Linking C static library libFSPT_MSG.a
+[  1%] Built target SCTP_CLIENT
+Scanning dependencies of target MAC_NR_COMMON
+[  1%] Built target FSPT_MSG
+[  2%] Built target M3AP_LIB
+Scanning dependencies of target NFAPI_PNF_LIB
+Scanning dependencies of target NFAPI_VNF_LIB
+Scanning dependencies of target UTIL
+[  2%] Building C object CMakeFiles/MAC_NR_COMMON.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_COMMON/nr_mac_common.c.o
+[  2%] Building C object CMakeFiles/NFAPI_VNF_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/nfapi/open-nFAPI/vnf/src/vnf_p7_interface.c.o
+[  2%] Building C object CMakeFiles/NFAPI_PNF_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/nfapi/open-nFAPI/pnf/src/pnf.c.o
+Scanning dependencies of target SCHED_NR_LIB
+Scanning dependencies of target SCHED_LIB
+Scanning dependencies of target PHY_RU
+[  2%] Building C object CMakeFiles/UTIL.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/UTIL/OPT/probe.c.o
+Scanning dependencies of target NFAPI_USER_LIB
+[ 10%] Built target NGAP_LIB
+[ 19%] Built target S1AP_LIB
+[ 19%] Building C object CMakeFiles/PHY_RU.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/LTE_TRANSPORT/prach.c.o
+[ 19%] Building C object CMakeFiles/SCHED_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SCHED/fapi_l1.c.o
+[ 19%] Building C object CMakeFiles/SCHED_NR_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SCHED_NR/fapi_nr_l1.c.o
+[ 19%] Building C object CMakeFiles/NFAPI_USER_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/nfapi/oai_integration/nfapi_pnf.c.o
+Scanning dependencies of target GTPV1U
+[ 19%] Built target S1AP_ENB
+[ 19%] Building C object CMakeFiles/SCHED_NR_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SCHED_NR/phy_procedures_nr_gNB.c.o
+[ 28%] Built target X2AP_LIB
+[ 28%] Built target NGAP_GNB
+[ 28%] Building C object CMakeFiles/GTPV1U.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB_GTPV1U.c.o
+Scanning dependencies of target PHY
+[ 28%] Building C object CMakeFiles/GTPV1U.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_eNB_GTPV1U.c.o
+Scanning dependencies of target PHY_NR
+[ 28%] Building C object CMakeFiles/PHY_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/INIT/nr_init.c.o
+[ 28%] Building C object CMakeFiles/PHY.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/LTE_TRANSPORT/pss.c.o
+[ 41%] Built target F1AP_LIB
+[ 41%] Building C object CMakeFiles/PHY.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/LTE_TRANSPORT/dlsch_coding.c.o
+Scanning dependencies of target M2AP_LIB
+[ 41%] Building C object CMakeFiles/M2AP_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_common.c.o
+Scanning dependencies of target M2AP_ENB
+Scanning dependencies of target M3AP_ENB
+Scanning dependencies of target F1AP
+Scanning dependencies of target LIB_NAS_UE
+[ 41%] Building C object CMakeFiles/LIB_NAS_UE.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair3/NAS/UE/EMM/Authentication.c.o
+[ 41%] Building C object CMakeFiles/M3AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair3/M3AP/m3ap_MCE_handler.c.o
+[ 41%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_eNB.c.o
+Scanning dependencies of target FLEXRAN_AGENT
+[ 41%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/dummy_enb.c.o
+[ 41%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_handler.c.o
+[ 41%] Linking C static library libNFAPI_VNF_LIB.a
+[ 41%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_common.c.o
+[ 41%] Linking C static library libUTIL.a
+[ 41%] Built target NFAPI_VNF_LIB
+[ 41%] Built target UTIL
+[ 41%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_cu_interface_management.c.o
+Scanning dependencies of target L2_NR
+[ 41%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_cu_rrc_message_transfer.c.o
+[ 41%] Building C object CMakeFiles/LIB_NAS_UE.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNormalService.c.o
+[ 41%] Building C object CMakeFiles/PHY.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/LTE_TRANSPORT/dci.c.o
+[ 41%] Linking CXX static library libPHY_RU.a
+[ 41%] Building CXX object CMakeFiles/GTPV1U.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair3/ocp-gtpu/gtp_itf.cpp.o
+[ 41%] Built target PHY_RU
+[ 41%] Building C object CMakeFiles/SCHED_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SCHED/phy_procedures_lte_eNb.c.o
+[ 41%] Linking C static library libSCHED_NR_LIB.a
+[ 41%] Building C object CMakeFiles/PHY.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/LTE_TRANSPORT/ulsch_decoding.c.o
+[ 41%] Linking C static library libNFAPI_PNF_LIB.a
+Scanning dependencies of target L2_LTE_NR
+[ 41%] Built target SCHED_NR_LIB
+[ 41%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_MCE.c.o
+[ 41%] Built target NFAPI_PNF_LIB
+[ 41%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_decoder.c.o
+Scanning dependencies of target PHY_COMMON
+[ 41%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/nr_rlc/nr_rlc_oai_api.c.o
+[ 41%] Linking C static library libMAC_NR_COMMON.a
+[ 41%] Building C object CMakeFiles/PHY_COMMON.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/CODING/coding_load.c.o
+[ 41%] Building C object CMakeFiles/NFAPI_USER_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/nfapi/oai_integration/nfapi_vnf.c.o
+[ 41%] Linking C static library libM2AP_LIB.a
+[ 41%] Built target MAC_NR_COMMON
+[ 41%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_encoder.c.o
+[ 43%] Built target M2AP_LIB
+Scanning dependencies of target FLPT_MSG
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/header.pb-c.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/flexran.pb-c.c.o
+[ 43%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/openair2_proc.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/stats_common.pb-c.c.o
+[ 43%] Linking C static library libM3AP_ENB.a
+[ 43%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_common.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/stats_messages.pb-c.c.o
+[ 43%] Built target M3AP_ENB
+[ 43%] Building C object CMakeFiles/PHY.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/PHY/INIT/lte_init.c.o
+[ 43%] Building C object CMakeFiles/LIB_NAS_UE.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair3/NAS/UE/ESM/esm_ebr_context.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/time_common.pb-c.c.o
+[ 43%] Linking C static library libPHY_NR.a
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/controller_commands.pb-c.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/mac_primitives.pb-c.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/config_messages.pb-c.c.o
+[ 43%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/config_common.pb-c.c.o
+[ 44%] Built target PHY_NR
+[ 44%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_eNB.c.o
+[ 44%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/nr_pdcp/nr_pdcp_oai_api.c.o
+[ 44%] Building C object CMakeFiles/FLPT_MSG.dir/CMakeFiles/FLPT_V2/control_delegation.pb-c.c.o
+[ 44%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_ran_api.c.o
+[ 44%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/nr_pdcp/asn1_utils.c.o
+[ 44%] Linking C static library libFLPT_MSG.a
+[ 44%] Built target FLPT_MSG
+[ 44%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/SDAP/nr_sdap/nr_sdap_entity.c.o
+[ 44%] Built target X2AP_ENB
+[ 44%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_timer.c.o
+[ 44%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_cu_task.c.o
+[ 44%] Linking C static library libPHY_COMMON.a
+[ 44%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_MCE_handler.c.o
+[ 44%] Built target PHY_COMMON
+[ 44%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_eNB_handler.c.o
+[ 44%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_eNB_management_procedures.c.o
+[ 44%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_common_internal.c.o
+[ 44%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_eNB_generate_messages.c.o
+[ 44%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_MCE_management_procedures.c.o
+[ 44%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_eNB_endc.c.o
+[ 44%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_eNB_S1AP.c.o
+[ 44%] Linking C static library libLIB_NAS_UE.a
+[ 44%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB.c.o
+[ 48%] Built target LIB_NAS_UE
+[ 48%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_MCE_generate_messages.c.o
+[ 48%] Linking C static library libSCHED_LIB.a
+[ 48%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/PHY/flexran_agent_phy.c.o
+[ 48%] Built target SCHED_LIB
+[ 48%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/nr_rrc_common.c.o
+[ 48%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/MAC/flexran_agent_mac.c.o
+[ 48%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/RRC/flexran_agent_rrc.c.o
+[ 48%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/L2_nr_interface.c.o
+[ 48%] Linking CXX static library libGTPV1U.a
+[ 48%] Built target GTPV1U
+[ 48%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/nr_rrc_config.c.o
+[ 48%] Linking C static library libNFAPI_USER_LIB.a
+[ 48%] Linking C static library libPHY.a
+[ 48%] Built target NFAPI_USER_LIB
+[ 48%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB_nsa.c.o
+[ 49%] Built target PHY
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB_internode.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB_reconfig.c.o
+[ 49%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_timers.c.o
+[ 49%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_MCE_interface_management.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/RRC/flexran_agent_rrc_internal.c.o
+/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB.c: In function ‘rrc_gNB_process_f1_setup_req’:
+/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB.c:2827:20: warning: unused variable ‘Sib1’ [-Wunused-variable]
+         NR_SIB1_t *Sib1 = rrc->carrier.sib1;
+                    ^~~~
+/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB.c:2748:15: warning: unused variable ‘msg_p2’ [-Wunused-variable]
+   MessageDef *msg_p2=itti_alloc_new_message (TASK_RRC_GNB, 0, F1AP_GNB_CU_CONFIGURATION_UPDATE);
+               ^~~~~~
+[ 49%] Building C object CMakeFiles/M2AP_ENB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/M2AP/m2ap_eNB_interface_management.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_cu_ue_context_management.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB_UE_context.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/PDCP/flexran_agent_pdcp.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/S1AP/flexran_agent_s1ap.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/rrc_gNB_NGAP.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_decoder.c.o
+Scanning dependencies of target NR_RRC_LIB
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_du_interface_management.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_eNB_M2AP.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/NR_PHY_INTERFACE/NR_IF_Module.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/main.c.o
+[ 49%] Building C object CMakeFiles/NR_RRC_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NR/MESSAGES/asn1_msg.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/config.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_eNB_UE_context.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/rrc_common.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_du_rrc_message_transfer.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_du_task.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_bch.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_dlsch.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_task_manager.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_ulsch.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_primitives.c.o
+[ 49%] Linking C static library libM2AP_ENB.a
+[ 49%] Built target M2AP_ENB
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_phytest.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_du_ue_context_management.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/MAC/flexran_agent_mac_internal.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_encoder.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/CONTROL_MODULES/MAC/flexran_agent_mac_slice_verification.c.o
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_handlers.c.o
+Scanning dependencies of target RRC_LIB
+[ 49%] Building C object CMakeFiles/F1AP.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/F1AP/f1ap_itti_messaging.c.o
+[ 49%] Building C object CMakeFiles/FLEXRAN_AGENT.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_app.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_uci.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_srs.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/NR_MAC_gNB/gNB_scheduler_RA.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/GNB_APP/gnb_app.c.o
+[ 49%] Building C object CMakeFiles/L2_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/GNB_APP/gnb_config.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/L2_interface.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/L2_interface_common.c.o
+[ 49%] Linking C static library libNR_RRC_LIB.a
+[ 49%] Building C object CMakeFiles/RRC_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/MESSAGES/asn1_msg.c.o
+[ 49%] Building C object CMakeFiles/RRC_LIB.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/MESSAGES/asn1_msg_NB_IoT.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/LTE/L2_interface_ue.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/PHY_INTERFACE/IF_Module.c.o
+[ 49%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/main.c.o
+[ 67%] Built target NR_RRC_LIB
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/rar_tools.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/l1_helpers.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler.c.o
+[ 67%] Linking C static library libFLEXRAN_AGENT.a
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_ulsch.c.o
+[ 67%] Built target FLEXRAN_AGENT
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_bch.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_primitives.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_mch.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_RA.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_fairRR.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/eNB_scheduler_phytest.c.o
+[ 67%] Linking C static library libF1AP.a
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/slicing/slicing.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/pre_processor.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/config.c.o
+[ 67%] Built target F1AP
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/LAYER2/MAC/config_ue.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/enb_app.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/enb_config.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/enb_config_SL.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/enb_config_eMTC.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/MCE_APP/mce_app.c.o
+[ 67%] Building C object CMakeFiles/L2_LTE_NR.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/MCE_APP/mce_config.c.o
+[ 67%] Linking C static library libRRC_LIB.a
+[ 67%] Linking C static library libL2_NR.a
+[ 68%] Built target L2_NR
+[100%] Built target RRC_LIB
+[100%] Linking C static library libL2_LTE_NR.a
+[100%] Built target L2_LTE_NR
+Scanning dependencies of target nr-softmodem
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/executables/nr-gnb.c.o
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/executables/nr-ru.c.o
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/executables/softmodem-common.c.o
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/executables/nr-softmodem.c.o
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SIMULATION/ETH_TRANSPORT/netlink_init.c.o
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/RRC/NAS/nas_config.c.o
+[100%] Building C object CMakeFiles/nr-softmodem.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair2/ENB_APP/flexran_agent_ran_api_to_fix.c.o
+[100%] Linking CXX executable nr-softmodem
+[100%] Built target nr-softmodem

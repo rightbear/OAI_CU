@@ -1,0 +1,10 @@
+[  0%] Built target generate_T
+Scanning dependencies of target SIMU_COMMON
+[  0%] Building C object CMakeFiles/SIMU_COMMON.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/openair1/SIMULATION/TOOLS/random_channel.c.o
+[  0%] Linking C static library libSIMU_COMMON.a
+[  0%] Built target SIMU_COMMON
+Scanning dependencies of target rfsimulator
+[100%] Building C object CMakeFiles/rfsimulator.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/targets/ARCH/rfsimulator/simulator.c.o
+[100%] Building C object CMakeFiles/rfsimulator.dir/home/mwnl/cyctest/oscdu_oaicu/openairinterface5g/targets/ARCH/rfsimulator/apply_channelmod.c.o
+[100%] Linking C shared module librfsimulator.so
+[100%] Built target rfsimulator
